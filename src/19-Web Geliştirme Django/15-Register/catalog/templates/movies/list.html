@@ -1,0 +1,53 @@
+{% extends 'layout.html' %}
+
+{% load static %}
+{% load humanize %}
+
+{% block content %}
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">Fluid jumbotron</h1>
+        <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-12">
+
+        {% if movies %}
+            {% for movie in movies %}
+                <div class="card mb-3">
+                <div class="row">
+                    <div class="col-md-3">
+                        <img class="card-img" src="{% static movie.get_image_path %}" alt="">
+                    </div>
+                    <div class="col-md-9">
+                        <div class="card-body">
+                            <div class="card-title"> 
+                                <a href="{% url 'detail' movie.id %}"> {{ movie.name }}</a>
+                             </div>
+                            <p class="card-text">
+                                    {{ movie.description }} 
+                            </p>
+                            <p class="card-text">
+                                <small class="text-muted">{{ movie.created_date | timesince }}</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            {% endfor %}
+
+        {% else %}
+            <div class="alert alert-warning">
+                <p>
+                    No Movies
+                </p>
+            </div>
+        {% endif %}      
+     
+    </div>
+</div>
+{% endblock %}
