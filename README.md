@@ -1,6 +1,6 @@
 # Python Kursu: Baştan Sona Programlama Eğitimi
 
-**Python Kursu: Baştan Sona Programlama Eğitimi kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?couponCode=GITHUB27 "tıklayınız.")**
+**Python Kursu: Baştan Sona Programlama Eğitimi kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
 
 Baştan Sona **Python Programlama** Öğrenmenin Tadına Varın...
 
@@ -58,4 +58,4 @@ Web Geliştirme: Django
 
 **Zaman kaybetmeden Python dünyasına katılın ve Python'ın getirdiği güzellikleri hep beraber görmeye başlayalım.**
 
-**Kursa indirimli katılmak için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?couponCode=GITHUB27 "tıklayınız.")**
+**Kursa indirimli katılmak için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
