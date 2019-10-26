@@ -1,0 +1,36 @@
+<header>
+        <div class="navbar navbar-expand-sm bg-primary navbar-dark">
+            <div class="container">
+                <a href="{% url 'index' %}" class="navbar-brand">Movie App</a>
+                <ul class="navbar-nav mr-auto">
+                    <li 
+                        {% if request.path == '/' %}
+                            class="nav-item active"
+                        {% else %}
+                            class="nav-item"
+                        {% endif %}
+                    >
+                        <a  href="{% url 'index' %}" class="nav-link">Home</a>
+                    </li>
+                    <li
+                        {% if 'about' in request.path %}
+                            class="nav-item active"
+                        {% else %}
+                             class="nav-item"
+                        {% endif %}                    
+                    >
+                        <a  href="{% url 'about' %}" class="nav-link">About</a>
+                    </li>
+                    <li 
+                        {% if 'movies' in request.path %}
+                            class="nav-item active"
+                        {% else %}
+                            class="nav-item"
+                        {% endif %} 
+                        >
+                        <a  href="{% url 'movies' %}" class="nav-link">Movies</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+</header>
