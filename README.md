@@ -7,17 +7,12 @@ Udemy' nin en güncel ve en detaylı **python programlama** kursuna katılarak, 
 
 Sıfırdan **Python Dersleri**;
 
-**Veritabanları** (MySql, Sqlite, MongoDb), 
-
-Veri Analizi (**Numpy**,**Pandas**), 
-
-**Bot Yazımı** (Selenium), 
-
-**Restful Api** Uygulamaları, 
-
-**Masaüstü Uygulama**ları (PyQt5), 
-
-**Web Geliştirme** (**Django**) 
+- **Veritabanları** (MySql, Sqlite, MongoDb), 
+- Veri Analizi (**Numpy**,**Pandas**), 
+- **Bot Yazımı** (Selenium), 
+- **Restful Api** Uygulamaları,
+- **Masaüstü Uygulama**ları (PyQt5), 
+- **Web Geliştirme** (**Django**) 
 
 ve çok daha fazlasını **python dersleri** ile öğrenebilirsiniz.
 
