@@ -1,7 +1,7 @@
 
 # Python Kursu:Baştan Sona Python Programlama
 
-**Python Kursu: Baştan Sona Programlama Eğitimi kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
+**Python Kursu: Baştan Sona Python Programlama Eğitimi kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
 
 Udemy' nin en güncel ve en detaylı **python programlama** kursuna katılarak, sıfırdan ileri seviye **python programlama** öğrenmenin tadına varın...
 
