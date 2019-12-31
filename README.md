@@ -1,61 +1,67 @@
-# Python Kursu: Baştan Sona Programlama Eğitimi
+
+# Python Kursu:Baştan Sona Python Programlama
 
 **Python Kursu: Baştan Sona Programlama Eğitimi kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
 
-Baştan Sona **Python Programlama** Öğrenmenin Tadına Varın...
+Udemy' nin en güncel ve en detaylı **python programlama** kursuna katılarak, sıfırdan ileri seviye **python programlama** öğrenmenin tadına varın...
 
-Kursumuzda baştan sona Python programlamayı öğrenerek fark yaratın çünkü Python' ın popülerliği tartışılmaz bir gerçektir. Gelin **"Python öğrenmeye"** beraber başlayalım.
+Sıfırdan **Python Dersleri**;
 
-Kursa katılmak için her hangi bir **programlama geçmişinizin olması gerekmiyor** çünkü kursumuz size **sıfırdan ileri seviyeye python programlamayı adım adım bol bol uygulama yaptırarak** öğretecektir.
+**Veritabanları** (MySql, Sqlite, MongoDb), 
 
-Python programlama dilini güzel bir şekilde öğrendikten sonra **farklı platformlarda python nasıl kullanılır** öğreniyoruz; **Python ile Masaüstü uygulama geliştirme (PyQt5)** ve **Python ile Web Geliştirme (Django)** alanında kariyerinize güzel bir yatırım yapacaksınız.
+Veri Analizi (**Numpy**,**Pandas**), 
 
-**Kurs boyunca,**
+**Bot Yazımı** (Selenium), 
 
-Her konunun kalıcılığını sağlamak için bir çok uygulama yapacağız.
+**Restful Api** Uygulamaları, 
 
-Bölüm sonlarında konuların hepsini kapsayan ödevlerimizi yapacağız.
+**Masaüstü Uygulama**ları (PyQt5), 
 
-Kurs boyunca en gerekli konuları en gerektiği kadar detaylıca ve uygulayarak öğreneceğiz. 
+**Web Geliştirme** (**Django**) 
 
-**Kurs İçeriği,**
+ve çok daha fazlasını **python dersleri** ile öğrenebilirsiniz.
 
-Python Geliştirme Ortamının Hazırlanması
+Kursumuzda baştan sona **python programlama**yı öğrenerek fark yaratın çünkü Python 'ın popülerliği tartışılmaz bir gerçektir. Gelin "**Python programlama** öğrenmeye" beraber başlayalım.
 
-Python Objeleri ve Veri Yapıları
+**Python dersleri** için her hangi bir programlama geçmişinizin olması gerekmiyor çünkü **python dersleri** size sıfırdan ileri seviye **python programlama**yı adım adım bol bol uygulama yaptırarak öğretecektir.
 
-Pythonda Operatörler
+**Python programlama** dilini güzel bir şekilde öğrendikten sonra farklı platformlarda python nasıl kullanılır öğreniyoruz; **Python dersleri** ile **Masaüstü uygulama geliştirme** (PyQt5) ve **Python ile Web Geliştirme** (Django) alanında kariyerinize güzel bir yatırım yapacaksınız.
 
-Pythonda Koşul İfadeleri
+Kurs boyunca,
 
-Pythonda Döngüler
+- Her konunun kalıcılığını sağlamak için bir çok **python** uygulaması yapacağız.
+- Bölüm sonlarında konuların hepsini kapsayan **python** ödevlerimizi yapacağız.
+- Kurs boyunca en gerekli **python dersleri**ni en gerektiği kadar detaylıca yalın bir şekilde uygulayarak öğreneceğiz. 
 
-Pythonda Fonksiyonlar
+Kurs İçeriği,
 
-Pythonda Nesne Tabanlı Programlama
+- **Python Geliştirme Ortamı**nın Hazırlanması
+- Python **Objeleri ve Veri Yapıları**
+- Python **Operatörler**
+- Python **Koşul İfadeleri**
+- Python **Döngüler**
+- Python **Fonksiyonlar**
+- Python **Nesne Tabanlı Programlama**
+- Python **Modüller**
+- Python **Hatalar** & **Hata Yönetimi**
+- Python **Dosya Yönetimi**
+- Python **Fonksiyonların İleri Seviye Özellikleri**
+- Python **Iterators**
+- Python **Generators**
+- **İleri Seviye Python Modülleri**  & **Web Scaping**
+- Python ile **Bot Yazılımı**: Selenium
+- Selenium: **Instagram Bot**
+- Selenium: **Twitter Bot**
+- Veri Analizi: **Numpy**
+- Veri Analizi: **Pandas**
+- Veri Görselleştirme: **Matplotlib**
+- SQL Database: MySql & SQLite
+- **NoSQL Database**: MongoDb
+- **Masaüstü Uygulama Geliştirme**: **PyQt5**
+- **Web Geliştirme**: **Django**
 
-Pythonda Modüller
+Zaman kaybetmeden **python programlama** dünyasına katılın ve Python 'ın getirdiği güzellikleri hep beraber görmeye başlayalım.
 
-Pythonda Hatalar & Hata Yönetimi
+**Python dersleri** kursumuza indirimli katılmak için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")
 
-Pythonda Dosya Yönetimi
-
-Pythonda Fonksiyonların İleri Seviye Özellikleri
-
-Pythonda Iterators
-
-Pythonda Iterators
-
-İleri Seviye Python Modülleri
-
-SQL Database: MySql & SQLite
-
-NoSQL Database: MongoDb
-
-Masaüstü Uygulama Geliştirme: PyQt5
-
-Web Geliştirme: Django
-
-**Zaman kaybetmeden Python dünyasına katılın ve Python'ın getirdiği güzellikleri hep beraber görmeye başlayalım.**
-
-**Kursa indirimli katılmak için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
+**Python dersleri** yazılı dökümanlara ulaşmak için [tıklayınız.](https://sadikturan.com/python-dersleri)
