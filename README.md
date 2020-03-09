@@ -1,6 +1,8 @@
 
 # Sıfırdan İleri Seviye Python ile Programlama Kursu
 
+**Python dersleri** yazılı dökümanlara ulaşmak için [tıklayınız.](https://sadikturan.com/python-dersleri)
+
 Sıfırdan **Python Dersleri**;
 
 - **Veritabanları** (MySql, Sqlite, MongoDb), 
