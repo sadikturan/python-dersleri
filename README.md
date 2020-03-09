@@ -1,9 +1,5 @@
 
-# Python Kursu:Baştan Sona Python Programlama
-
-**Python Kursu: Baştan Sona Python Programlama Eğitimi kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")**
-
-Udemy' nin en güncel ve en detaylı **python programlama** kursuna katılarak, sıfırdan ileri seviye **python programlama** öğrenmenin tadına varın...
+# Sıfırdan İleri Seviye Python ile Programlama Kursu
 
 Sıfırdan **Python Dersleri**;
 
@@ -56,7 +52,5 @@ Kurs İçeriği,
 - **Web Geliştirme**: **Django**
 
 Zaman kaybetmeden **python programlama** dünyasına katılın ve Python 'ın getirdiği güzellikleri hep beraber görmeye başlayalım.
-
-**Python dersleri** kursumuza indirimli katılmak için [tıklayınız.](https://www.udemy.com/course/python-dersleri/?referralCode=666A69FA11897970EE46 "tıklayınız.")
 
 **Python dersleri** yazılı dökümanlara ulaşmak için [tıklayınız.](https://sadikturan.com/python-dersleri)
