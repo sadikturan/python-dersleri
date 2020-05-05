@@ -2,6 +2,7 @@
 # Sıfırdan İleri Seviye Python ile Programlama Kursu
 
 **Python dersleri** yazılı dökümanlara ulaşmak için [tıklayınız.](https://sadikturan.com/python-dersleri)
+
 **Telegram grubuna** katılmak için [tıklayınız.](https://t.me/joinchat/PmV2Xhw1ZaeIq9EINxJNvg)
 
 Sıfırdan **Python Dersleri**;
