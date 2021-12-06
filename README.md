@@ -5,6 +5,8 @@
 
 **Telegram grubuna** katılmak için [tıklayınız.](https://t.me/joinchat/PmV2Xhw1ZaeIq9EINxJNvg)
 
+**Discord Sunucusu** katılmak için [tıklayınız.](https://discord.com/invite/rANTmRzuHZ)
+
 Sıfırdan **Python Dersleri**;
 
 - **Veritabanları** (MySql, Sqlite, MongoDb), 
