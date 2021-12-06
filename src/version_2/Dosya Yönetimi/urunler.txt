@@ -1,0 +1,2 @@
+ad: samsung s10 fiyat: 5000
+ad: samsung s11 fiyat: 0

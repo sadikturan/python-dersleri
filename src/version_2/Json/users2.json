@@ -1,0 +1,11 @@
+{
+  "cinarturan": {
+    "firstName": "Çınar",
+    "lastName": "Turan"
+  },
+  "emelturan": {
+    "firstName": "Emel",
+    "lastName": "Turan",
+    "age": 30
+  }
+}
