@@ -1,15 +1,17 @@
 import requests
 import json
 
-api_url = "https://api.exchangeratesapi.io/latest?base="
+api_key = "<your_api_key>"
+api_url = f"https://v6.exchangerate-api.com/v6/{api_key}/latest/"
 
-bozulan_doviz = input("bozulan döviz türü: ")
-alinan_doviz = input("alınan döviz türü: ")
-miktar = int(input(f"Ne kadar {bozulan_doviz} bozdurmak istiyorsunuz: "))
+bozulan_doviz = input("Bozulan döviz türü: ") # USD
+alinan_doviz = input("Alkınan döviz türü: ") # TRY
+miktar = int(input(f"Ne kadar {bozulan_doviz} bozdurmak istiyorsunuz: ")) # Ne kadar USD 
 
-result = requests.get(api_url+bozulan_doviz)
-result = json.loads(result.text)
+sonuc = requests.get(api_url + bozulan_doviz)
+sonuc_json = json.loads(sonuc.text)
 
-print("1 {0} = {1} {2}".format(bozulan_doviz, result["rates"][alinan_doviz], alinan_doviz))
-print("{0} {1} = {2} {3}".format(miktar, bozulan_doviz, miktar * result["rates"][alinan_doviz],alinan_doviz))
+# print(sonuc_json["conversion_rates"][alinan_doviz])
 
+print("1 {0} = {1} {2}".format(bozulan_doviz,sonuc_json["conversion_rates"][alinan_doviz], alinan_doviz))
+print("{0} {1} = {2} {3}".format(miktar, bozulan_doviz, miktar * sonuc_json["conversion_rates"][alinan_doviz], alinan_doviz))
