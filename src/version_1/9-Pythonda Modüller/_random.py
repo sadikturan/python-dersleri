@@ -24,3 +24,5 @@ result = random.sample(liste, 3)
 result = random.sample(names, 2)
 
 print(result)
+
+print("Selamlar olsun, bu bir denemedir.")
